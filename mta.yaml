@@ -14,7 +14,7 @@ build-parameters:
 modules:
   - name: Alert_Notification_Use_Case-srv
     type: nodejs
-    path: gen/srv
+    path: gen/srv-wrong-path
     parameters:
       buildpack: nodejs_buildpack
     build-parameters:
