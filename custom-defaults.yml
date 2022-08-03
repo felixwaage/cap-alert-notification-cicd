@@ -1,0 +1,3 @@
+hooks:
+  ans:
+    serviceKeyCredentialsId: 'airc_alert_notification_key'
